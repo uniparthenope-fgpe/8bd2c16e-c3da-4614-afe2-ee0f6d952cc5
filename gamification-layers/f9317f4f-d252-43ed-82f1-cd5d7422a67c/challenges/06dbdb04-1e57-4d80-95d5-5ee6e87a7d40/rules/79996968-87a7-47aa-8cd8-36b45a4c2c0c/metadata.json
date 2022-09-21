@@ -1,1 +1,1 @@
-{"id":"79996968-87a7-47aa-8cd8-36b45a4c2c0c","name":"First reward","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["06dbdb04-1e57-4d80-95d5-5ee6e87a7d40"]}],"criteria":{},"actions":[{"type":"GIVE","parameters":[]}]}
+{"id":"79996968-87a7-47aa-8cd8-36b45a4c2c0c","name":"First reward","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["06dbdb04-1e57-4d80-95d5-5ee6e87a7d40"]}],"criteria":{},"actions":[{"type":"GIVE","parameters":["e05fa093-0f98-454d-be57-6f5f1debd49b"]}]}
