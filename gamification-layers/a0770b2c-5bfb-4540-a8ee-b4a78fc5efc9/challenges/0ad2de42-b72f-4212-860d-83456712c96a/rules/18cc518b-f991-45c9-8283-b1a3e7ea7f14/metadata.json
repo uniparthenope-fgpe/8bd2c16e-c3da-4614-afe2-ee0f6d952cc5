@@ -1,1 +1,0 @@
-{"id":"18cc518b-f991-45c9-8283-b1a3e7ea7f14","name":"Unlock Chalenge 2","triggers":[],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","0af7f257-9323-482a-9bb2-a6509d487830","state","OPENED"]}]}
