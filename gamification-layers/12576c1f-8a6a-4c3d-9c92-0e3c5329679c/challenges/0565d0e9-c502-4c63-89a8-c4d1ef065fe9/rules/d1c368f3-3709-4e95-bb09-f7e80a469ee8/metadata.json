@@ -1,1 +1,0 @@
-{"id":"d1c368f3-3709-4e95-bb09-f7e80a469ee8","name":"Unlock Challenge 3","triggers":[],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","7be00488-8f78-4d9f-b9d3-f4632652f49f","state","OPENED"]}]}
