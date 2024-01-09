@@ -1,1 +1,0 @@
-{"id":"5f91099a-50d0-42c8-83e3-efd6ec3111cc","name":"Unlock level 2","triggers":[{"kind":"ACTION","event":"CHALLENGE_COMPLETED","recurrent":false,"parameters":["9152bee3-61f8-4764-8352-a45135e71ee5"]}],"criteria":{},"actions":[{"type":"UPDATE","parameters":["CHALLENGE","7c9850f5-5ec2-4baa-a4fe-59d1dc7dd55a","state","OPENED"]}]}
