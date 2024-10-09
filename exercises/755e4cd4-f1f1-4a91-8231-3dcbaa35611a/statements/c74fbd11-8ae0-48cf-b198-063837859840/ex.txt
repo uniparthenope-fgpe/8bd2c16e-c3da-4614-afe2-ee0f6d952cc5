@@ -1,0 +1,1 @@
+Create an array to store the names of droids and print them using a loop.
