@@ -1,0 +1,1 @@
+Create a class 'Starship' with attributes for name and shield strength. Implement a method to display the starship's status.
