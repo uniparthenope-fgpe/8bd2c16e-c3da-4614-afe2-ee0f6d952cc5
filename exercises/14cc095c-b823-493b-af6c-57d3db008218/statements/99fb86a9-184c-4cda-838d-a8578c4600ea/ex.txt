@@ -1,0 +1,1 @@
+Fix the bug in the code that creates a map of Hogwarts with room names and their locations.
