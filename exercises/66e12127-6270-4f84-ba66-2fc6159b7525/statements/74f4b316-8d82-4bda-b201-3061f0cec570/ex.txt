@@ -1,0 +1,1 @@
+Complete the function to cast a spell that returns a magical message.
