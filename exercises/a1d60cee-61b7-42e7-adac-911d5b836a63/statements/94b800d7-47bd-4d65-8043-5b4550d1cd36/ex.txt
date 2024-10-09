@@ -1,0 +1,1 @@
+Fix the function that checks if a number is even or odd. It should return true for even numbers and false for odd numbers.
