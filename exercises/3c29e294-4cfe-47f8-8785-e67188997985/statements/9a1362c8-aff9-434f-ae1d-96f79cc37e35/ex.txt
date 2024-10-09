@@ -1,0 +1,1 @@
+Write a function that counts the number of ingredients in a potion recipe.
