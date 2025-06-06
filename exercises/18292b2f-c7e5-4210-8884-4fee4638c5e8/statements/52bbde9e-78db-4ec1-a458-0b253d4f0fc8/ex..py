@@ -1,0 +1,1 @@
+Create a function that takes a list of magical creatures and returns a sorted list based on their names.
