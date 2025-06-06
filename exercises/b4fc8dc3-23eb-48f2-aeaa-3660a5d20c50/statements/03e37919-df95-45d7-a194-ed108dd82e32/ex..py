@@ -1,0 +1,1 @@
+Create a program that prints 'Hello, Wizarding World!' to the console.
