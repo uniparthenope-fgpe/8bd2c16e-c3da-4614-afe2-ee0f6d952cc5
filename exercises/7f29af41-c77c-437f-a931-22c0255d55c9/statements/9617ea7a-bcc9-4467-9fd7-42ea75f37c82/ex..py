@@ -1,0 +1,1 @@
+Fix the bugs in this Quidditch scoring program to correctly calculate the score based on goals and fouls.
