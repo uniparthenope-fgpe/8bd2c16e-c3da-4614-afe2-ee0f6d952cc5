@@ -1,0 +1,1 @@
+Create a Wizard class with methods for casting spells and taking damage. Extend the functionality to include different spell types.
