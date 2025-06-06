@@ -1,0 +1,1 @@
+Calculate the total cost of items in Diagon Alley. Fill in the gaps in the code to make it work.
